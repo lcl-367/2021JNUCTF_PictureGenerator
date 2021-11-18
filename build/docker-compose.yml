@@ -1,0 +1,9 @@
+version: "2"
+services:
+  web1:
+    build: .
+    image: ctfhub/base_web_gunicorn_python_36
+    ports:
+      - "8080:80"
+    environment:
+      - FLAG=flag{fhfgufghui_ewftftdf_whfdweyidg_gafdhjasdh_eghfhef_rhgfjrikfu!!!!}
