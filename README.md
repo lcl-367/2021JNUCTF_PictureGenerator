@@ -1,15 +1,15 @@
-- **题目名称：**PictureGenerator
+- **题目名称：** PictureGenerator
 - **题目类型：** WEB
-- **题目难度：**中等 
-- **出题人：**ABU
+- **题目难度：** 中等 
+- **出题人：** ABU
 - **考点：**
 
 1. 代码审计
 2. python os.system 命令注入
 
-- **描述：**一个图片生成器，你能帮我读到flag吗？flag在根目录的/flag下
+- **描述：** 一个图片生成器，你能帮我读到flag吗？flag在根目录的/flag下
 
-- **flag：**flag{fhfgufghui_ewftftdf_whfdweyidg_gafdhjasdh_eghfhef_rhgfjrikfu!!!!}
+- **flag：** flag{fhfgufghui_ewftftdf_whfdweyidg_gafdhjasdh_eghfhef_rhgfjrikfu!!!!}
 
 - **Writeup：** 
 
