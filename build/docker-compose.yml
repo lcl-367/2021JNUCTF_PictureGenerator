@@ -2,7 +2,7 @@ version: "2"
 services:
   web1:
     build: .
-    image: ctfhub/base_web_gunicorn_python_36
+    image: PictureGenerator
     ports:
       - "8080:80"
     environment:
